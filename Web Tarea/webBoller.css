@@ -1,0 +1,107 @@
+.olakease {
+  background-color: #dabcb2;
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar.scrolled {
+  background: #ceaa9a;
+  transition: background 400ms;
+  transition-delay: 150ms;
+  transition-timing-function: ease-in-out;
+}
+
+li a {
+  font-weight: 500;
+}
+
+nav .coco {
+  font-size: 1.2em;
+}
+
+.cotico {
+  font-size: 0.6em;
+}
+
+nav {
+  font-size: 0.8em;
+}
+
+.inicio {
+  font-weight: 300;
+}
+
+.pakapaka {
+  margin: 0 auto;
+}
+
+.collapse {
+  background-color: rgba(218, 188, 178, 0.9);
+  padding: 0.3em 0.4em;
+  padding-right: 0.8em;
+  border-radius: 0.8em;
+  border: 0.02em solid rgb(230, 198, 195);
+}
+
+.iconCoti {
+  background-position: 10px 10px;
+  height: 26px;
+  width: 50px;
+  margin-right: 0.5em;
+}
+
+.iconCoti2 {
+  background-position: 10px 10px;
+  height: 20px;
+  width: 20px;
+  margin-right: 0.5em;
+  margin-bottom: 2px;
+}
+
+h3 {
+  font-family: "Sofia", cursive;
+}
+
+footer .elFooterChido {
+  background: url(footer.jpg);
+  height: 140px;
+}
+
+footer .coniloka {
+  height: 25px;
+  background-color: #ceaa9a;
+  font-family: "Sofia", cursive;
+}
+
+footer .elFooterChido {
+  font-family: "Sofia", cursive;
+  font-size: 2.5em;
+}
+
+.iconosRedes {
+  height: 1em;
+  width: 1em;
+  transition: background-color 0.5s;
+  border-radius: 0.5em;
+}
+.iconosRedesSpecial {
+  height: 1em;
+  width: 1em;
+  transition: background-color 0.5s;
+  border-radius: 0.2em;
+}
+
+.iconosRedes:hover {
+  background-color: black;
+}
+
+.iconosRedesSpecial:hover {
+  background-color: black;
+}
+
+/* section {
+  width: 80%;
+  height: 10em;
+  background: center/cover url("vee.jpg");
+  margin: 0 auto;
+  margin-top: 4em;
+} */
